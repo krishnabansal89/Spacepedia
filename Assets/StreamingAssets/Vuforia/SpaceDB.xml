@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="SS_image" size="6.000000 4.500000" />
+    <ImageTarget name="sun" size="6.000000 3.375000" />
+    <ImageTarget name="nebula" size="6.000000 3.375000" />
+    <ImageTarget name="earth" size="6.000000 3.376471" />
+  </Tracking>
+</QCARConfig>
